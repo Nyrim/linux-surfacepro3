@@ -1,5 +1,5 @@
 # linux-surfacepro3
-Running linux (Fedora, Ubuntu in this case) on the Microsoft Surface Pro 3
+Running Fedora linux on the Microsoft Surface Pro 3
 
    1. Download 64bit version from GetFedora.org
    2. Dump the .ISO to a USB stick.
